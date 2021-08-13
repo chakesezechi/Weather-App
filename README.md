@@ -1,2 +1,2 @@
-# weather map
-Weather Map: A simple weather map using HTML, CSS, Vanilla JS and Open Weather Map API
+# weather application
+Weather Application: A simple weather application using HTML, CSS, Vanilla JS and Open Weather Map API
